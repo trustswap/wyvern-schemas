@@ -2,6 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const Web3 = require("web3");
 const types_1 = require("wyvern-js/lib/types");
+exports.AnnotatedFunctionInput = types_1.AnnotatedFunctionInput;
+exports.AnnotatedFunctionABI = types_1.AnnotatedFunctionABI;
 exports.FunctionInputKind = types_1.FunctionInputKind;
 var Network;
 (function (Network) {
