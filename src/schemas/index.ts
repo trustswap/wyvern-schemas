@@ -7,4 +7,6 @@ import { rinkebySchemas } from './rinkeby/index';
 export const schemas = {
   rinkeby: rinkebySchemas,
   main: mainSchemas,
+  matic: mainSchemas,
+  mumbai: rinkebySchemas
 };
