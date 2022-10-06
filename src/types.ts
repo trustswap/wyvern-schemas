@@ -15,6 +15,7 @@ export {
 export enum Network {
   Main = 'main',
   Rinkeby = 'rinkeby',
+  Goerli = 'goerli',
   Kovan = 'kovan',
 }
 
